@@ -1,6 +1,4 @@
-package Lesson1.Checking_odd;
-
-import Lesson1.width_height.width_eight;
+package Lesson1.task3;
 
 public class Checking_odd {
 

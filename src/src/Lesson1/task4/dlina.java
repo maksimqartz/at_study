@@ -1,4 +1,4 @@
-package Lesson1.dlina;
+package Lesson1.task4;
 
 public class dlina {
 
@@ -9,7 +9,7 @@ public class dlina {
         System.out.println(dlina.getDlina(278));
     }
 
-    static int getDlina(int cm){
+    static int getDlina(int cm) {
         return cm / 100;
     }
 }

@@ -1,4 +1,4 @@
-package Lesson1.Square;
+package Lesson1.task1;
 
 public class Square {
 

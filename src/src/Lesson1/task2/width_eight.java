@@ -1,4 +1,4 @@
-package Lesson1.width_height;
+package Lesson1.task2;
 
 public class width_eight {
 
