@@ -19,7 +19,7 @@ public class CatApp {
 
         Cat[] randomCats = Cat.generateCats(9);
         for (Cat current : randomCats) {
-            System.out.println("Кот с именем %s, возраст: %d, вес: %d%n", current.name, current.age, current.weight);
+            System.out.println("Кот с именем");
         }
     }
 }
